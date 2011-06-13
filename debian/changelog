@@ -1,0 +1,17 @@
+appmenu-qt (0.1.2-0ubuntu1) natty; urgency=low
+
+  * New upstream release for new dbus namespace
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 14 Jan 2011 19:03:38 +0000
+
+appmenu-qt (0.1.0-0ubuntu2) natty; urgency=low
+
+  * Add build-dep on qt4-qmake
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 14 Jan 2011 15:09:40 +0000
+
+appmenu-qt (0.1.0-0ubuntu1) natty; urgency=low
+
+  * Initial package
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 12 Jan 2011 17:13:08 +0000

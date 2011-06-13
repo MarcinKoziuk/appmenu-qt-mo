@@ -1,0 +1,15 @@
+Source: appmenu-qt
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
+Build-Depends: debhelper (>= 7.3), cmake, libdbusmenu-qt-dev, qt4-qmake, libqt4-dev, pkg-config
+Standards-Version: 3.9.1
+Section: x11
+Homepage: https://launchpad.net/appmenu-qt
+
+Package: appmenu-qt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: appmenu support for Qt
+ This plugin provides appmenu support for Qt.  It allows applications
+ to export menus over DBus to plasma-widget-menubar or another menu applet.

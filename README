@@ -1,0 +1,9 @@
+# Summary
+
+This plugin provides appmenu support for Qt.
+
+You *need* a patched Qt for this to work.
+
+# Author
+
+Canonical DX Team, Aurélien Gâteau <aurelien.gateau@canonical.com>

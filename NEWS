@@ -1,0 +1,8 @@
+# 0.1.2 - 2011.01.14
+- org.ayatana => com.canonical
+
+# 0.1.1 - 2011.01.13
+- No need for qmenubarimpl_p.h
+
+# 0.1.0 - 2011.01.11
+- First release.
